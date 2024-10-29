@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1007917653579",
+    "project_id": "r2-19-a-prayer-bplo",
+    "storage_bucket": "r2-19-a-prayer-bplo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007917653579:android:0dfa7f5173d543cc97b7ce",
+        "android_client_info": {
+          "package_name": "com.street.pray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007917653579-7u8dqfo2u1ocb6spglqksvoh3uu6gvi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.street.pray",
+            "certificate_hash": "ab2d9f447c57e994bec448588af67b5bb01d0d5f"
+          }
+        },
+        {
+          "client_id": "1007917653579-fl7f1hhmaup37t82nt5ra8lddsfu2b52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvlzIQxPXTcrv8ymLiGuHwPHjUmw5shIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007917653579-fl7f1hhmaup37t82nt5ra8lddsfu2b52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
